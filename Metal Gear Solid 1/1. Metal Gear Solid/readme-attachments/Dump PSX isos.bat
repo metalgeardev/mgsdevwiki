@@ -1,0 +1,1 @@
+for %%f in (original\*.bin) do "J:\Mega\Games\MG Master Collection\Self made mods\Tooling\mkpsxiso-2.10-win64\bin\dumpsxiso.exe" -x "%%~nf" -s "%%~nf.xml" "%%~ff"

@@ -1,0 +1,1 @@
+WARNING: These tools are potentially DESTRUCTIVE in their current state and are intended for example purposes. The PNG -> CTXR conversion script will DELETE all .dds files in the source folder on completion.

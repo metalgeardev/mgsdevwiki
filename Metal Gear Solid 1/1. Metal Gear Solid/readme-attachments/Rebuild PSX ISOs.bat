@@ -1,0 +1,1 @@
+for %%f in (*.xml) do "J:\Mega\Games\MG Master Collection\Self made mods\Tooling\mkpsxiso-2.10-win64\bin\mkpsxiso.exe" -o "%%~nf.bin" -c "%%~nf.cue" "%%~ff" 
