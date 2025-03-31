@@ -19,7 +19,7 @@ PS2 disks are not encrypted and can be extracted with Windows Explorer / 7zip.
 | MOVIE.DAT |                                                                                                                                            |                                               |
 | STAGE.DAT | [Arsenal](https://github.com/Jayveer/Arsenal/releases)<br>Does not extract all files, such as streaming audio (.MDX)                       | Invoke via CMD<br>`Arsenal.exe FACE.DAT`      |
 | VOX.DAT   | [PSSound](https://www.romhacking.net/utilities/679/) <br>Can extract audio as .wav, but cannot extract in the original audio format (.MDX) |                                               |
-A newer updated ![dictionary.txt](readme-attachments/dictionary.txt) for use with Arsenal.
+A newer updated ![dictionary.txt](resources/dictionary.txt) for use with Arsenal.
 
 ### Stages
 [List of all Stages](Stage%20List.md)
