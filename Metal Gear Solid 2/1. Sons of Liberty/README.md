@@ -59,6 +59,10 @@ A newer updated ![dictionary.txt](readme-attachments/dictionary.txt) for use wit
 | RVW    |                   | (rev_parts_coat.row)                                                                                                                                                                                                                                                                                  |
 
 
+-----------------
+
+RAW INFO DUMP BELOW. NEEDS SORTING.
+
 
 '00' => 'anm',    # a
 '01' => 'bin',    # b

@@ -36,29 +36,21 @@
 #### Metal Gear Solid 2: HD Edition
 - Developer: [Bluepoint Games Inc.](https://en.wikipedia.org/wiki/Bluepoint_Games) & [Armature Studio](https://en.wikipedia.org/wiki/Armature_Studio) (for the PSVita version)
 
-| Platform | Region | Release Date | Compiled | Serial |
-| -------- | ------ | ------------ | -------- | ------ |
-| PS3      | NTSC   | 08NOV11      |          |        |
-| PS3      | JP     | 23NOV11      |          |        |
-| PS3      | EU     | 03FEB12      |          |        |
-| PS3      | AU     |              |          |        |
-| X360     | NTSC   | 08NOV11      |          |        |
-| X360     | JP     |              |          |        |
-| X360     | EU     |              |          |        |
-| X360     | AU     |              |          |        |
-| PSVita   | NTSC   |              |          |        |
-| PSVita   | JP     |              |          |        |
-| PSVita   | EU     |              |          |        |
-| PSVita   | AU     |              |          |        |
+| Platform | Region | Release Date | Compiled  | Serial         |
+| -------- | ------ | ------------ | --------- | -------------- |
+| PS3      | NTSC   | 08NOV2011    | 13OCT2011 | BLUS-30847     |
+| PS3      | JP     | 23NOV2011    | 13OCT2011 | BLJM-61001     |
+| PS3      | EU     | 03FEB2012    | 17MAR2011 | BLES-01419     |
+| X360     | NTSC   | 08NOV2011    | 13OCT2011 | KN211205K04F11 |
+| X360     | JP     | 23NOV2011    | 16OCT2011 | KN211202J03F11 |
+| X360     | EU     | 03FEB2012    | 13OCT2011 | KN211206E06F11 |
+| PSVita   | NTSC   |              |           |                |
+| PSVita   | JP     |              |           |                |
+| PSVita   | EU     |              |           |                |
+| PSVita   | AU     |              |           |                |
 
 
-#### [Metal Gear Solid - Master Collection Version](5.%20Master%20Collection/README.md)
-- Developer: [M2 Co., LTD.](https://en.wikipedia.org/wiki/M2_(game_developer))
-- Release Date (WW): 24OCT2023 
+#### [Metal Gear Solid 2 - Master Collection Version](4.%20Master%20Collection/README.md)
+- Developer: [Rocket Studio, Inc.](https://www.mobygames.com/company/11355/rocket-studio-inc/), [Konami Digital Entertainment Co., Ltd.](https://www.mobygames.com/company/10359/konami-digital-entertainment-co-ltd/)
+- Release Date (WW): 24OCT2023
 
-
------------
-TODO:
-
-
-(@Sparkle: Not sure if VR Missions/PS1 Integral has different file formats from the original release, if they're the same/tooling works interchangeably between all versions, feel free to merge them to cut down on redundant entries!)

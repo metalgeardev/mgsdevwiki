@@ -2,8 +2,6 @@
 
 *Metal Gear Solid HD Edition* is a compilation of enhanced ports of *Metal Gear Solid 2: Substance* and *Metal Gear Solid 3: Subsistence* developed by Bluepoint Games under the supervision of Kojima Productions for PlayStation 3 and Xbox 360. It was later ported to PlayStation Vita and Nvidia Shield by Armature Studio and Nvidia Lightspeed Studios respectively.
 
-*Metal Gear Solid: Peace Walker HD Edition* was developed by Genki Co.,Ltd. and sold separately in Japan. For the purposes of this wiki, it is considered a separate product.
-
 ## Table of Contents
 ```table-of-contents
 ```

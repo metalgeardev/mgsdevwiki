@@ -11,5 +11,7 @@ PS2 disks are not encrypted and can be extracted with Windows Explorer / 7zip.
 
 
 
-Version Differences:
-Japan Exclusive
+------------
+
+TODO: 
+Document Japan exclusive features 

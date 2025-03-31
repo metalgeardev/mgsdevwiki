@@ -1,3 +1,4 @@
+# NOTICE: THIS PAGE IS VERY WIP. BELOW INFORMATION SHOULD BE CONSIDERED INACCURATE.
 # 2002 - Substance (Xbox)
 ## Table of Contents
 ```table-of-contents
@@ -8,6 +9,8 @@ https://github.com/KilLo445/extract-xiso-gui/releases/tag/2.0.1
 
 This GUI tool supports both unpacking and repacking Xbox ISO/XISO files.
 
+------------------
+RAW INFO DUMP BELOW THIS LINE
 PS2 → DirectX
 ---------------
 cv2 → cvy
