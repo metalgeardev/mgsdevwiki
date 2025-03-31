@@ -31,7 +31,7 @@ Below are tools and methods for converting texture color space for accurate rend
 
 <br>
 
-![381780393-9cc93d7c-ffd5-46d8-9610-e063f95b6a61](https://github.com/user-attachments/assets/8b93684b-4440-44d0-9040-f113c59190df)
+![](resources/images/ps2_colorspace_pcsx2_writeup.png)
 
 PCSX2's team does provide tooling on their repo to easily mass-convert dumped textures to a modern color depth if you need to use the textures in a different engine:
 https://github.com/PCSX2/pcsx2/blob/master/tools/texture_dump_alpha_scaler.py
@@ -43,7 +43,7 @@ https://github.com/PCSX2/pcsx2/blob/master/tools/texture_dump_alpha_scaler.py
 
 Alternatively, if you're not comfortable with command line / python, you can also use chainner to easily do it en-masse (just remember to convert them back if you intend to use the texture in the MGS2/MGS3 engine!)
 
-![image](https://github.com/user-attachments/assets/f3d0aad7-59cf-4d0a-8ab4-14efe20481d2)
+![](resources/images/ps2_colorspace_example_chainner_transparency_splitting.png)
 
 <br>
 
@@ -57,8 +57,8 @@ To easily convert a texture's color space directly within Photoshop, a set of ac
 <br>
 
 
-![image](https://github.com/user-attachments/assets/5ba5e2a8-bbe2-4cdc-a7e9-334564147e59)
 
+![](resources/images/ps2_colorspace_example_photoshop_actions.png)
 
 <br>
 
@@ -70,31 +70,31 @@ To easily convert a texture's color space directly within Photoshop, a set of ac
 2) Merges all visible layers
 3) Creates new layer mask from transparency
    
-![bed86526-f1d3-431d-8ac7-cfade5d084c0](https://github.com/user-attachments/assets/7c7c7b67-33e6-4999-aadc-a8f461b46446)
+![](resources/images/ps2_colorspace_photoshop_layer_masking.png)
 
-![2800a1be-73c6-46df-90e5-3a4be0410edb](https://github.com/user-attachments/assets/095f64e7-777c-4a91-9050-5f1c2e768cf6)
 
-1) Enables ONLY the alpha channel
+![](resources/images/ps2_colorspace_example_photoshop_final.png)
+4) Enables ONLY the alpha channel
    
-![ff0f5ebe-e7bd-4f3f-83ce-30fe4ef19143](https://github.com/user-attachments/assets/ddd96dbc-e9a2-4bed-829c-03eafde1d11f)
+![](resources/images/ps2_colorspace_example_photoshop_mask_splitting.png)
 
 5) Menu Image > Adjustments > Levels (CTRL + L)
    
-![93228792-4a5c-4097-a37f-041bfd147077](https://github.com/user-attachments/assets/5c8e0466-d6ca-4a09-a29a-c1d45edc0984)
+![](resources/images/ps2_colorspace_example_photoshop_level_doubling.png)
 
 6) Change Input Level from 255 to 128 
 
-![325a07de-9839-4687-8f15-030e9161abdb](https://github.com/user-attachments/assets/22992288-9c12-4327-ab0d-1da06697e23e)
+![](resources/images/ps2_colorspace_example_photoshop_alpha_multiplication.png)
 
 Final Result:
 
-![1caed4df-5580-4408-ba56-c03b6d58862c](https://github.com/user-attachments/assets/026b473e-7939-4af9-adf5-caf9a803cdb8)
+![](resources/images/ps2_colorspace_example_photoshop_final_2.png)
 
 <br>
 
 To convert a texture from PC color space back to the PS2's color space, simply repeat the above process, but change the OUTPUT level to 128 instead of the input level.
 
-![cacd189e-27ff-4ad9-94c9-81f2df412431](https://github.com/user-attachments/assets/72374a6f-fef8-440d-8f78-7c960239a9d8)
+![](resources/images/ps2_colorspace_example_photoshop_alpha_levels.png)
 
 
 

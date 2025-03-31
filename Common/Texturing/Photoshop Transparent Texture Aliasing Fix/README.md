@@ -7,4 +7,7 @@ Don't use photoshop when exporting textures that have transparency / alpha layer
 This is a long known issue with how photoshop saves images with transparency, in that it sets empty pixels to white instead of bleeding the color that is adjacent to them. This results in white edges appearing around transparent textures due to how most game engines compress textures in memory, even though the image itself looks normal when viewed in photoshop & windows. 
 
 To fix this issue, simply open up your .PSD (or your .PNG) in gimp, export as a PNG (control shift e to open the export panel), then enable this option when saving the file as a PNG
-![](resources/aikffgdw.png)![](resources/43pznp3d.png)![](resources/yi4e96om.png)![](resources/c7qfm25v.png)
+![](resources/images/aikffgdw.png)
+![](resources/images/43pznp3d.png)
+![](resources/images/yi4e96om.png)
+![](resources/images/c7qfm25v.png)
