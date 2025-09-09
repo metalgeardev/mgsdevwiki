@@ -16,3 +16,10 @@ Initial Release Date: 26AUG2025
 ## .PAK Creation
 [Mod Packaging with UnrealPak](https://modding.wiki/en/stalker2heartofchornobyl/developers/UnrealPak)
 
+
+## Texturing / Models
+Models are standard .FBX format.
+
+Textures are Albedo, Metalness/Roughness/Ambient/Occlusion (MRAO) Maps, Cavity/Detail/Displacement Maps (CDM), Normals, Blendmaps, Masks for dirt & decals.
+
+Modern texturing (Adobe Substance Painter) & modeling (Autodesk Maya) software can be used without any need for modification.
