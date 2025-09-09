@@ -22,4 +22,4 @@ Models are standard .FBX format.
 
 Textures are Albedo, Metalness/Roughness/Ambient/Occlusion (MRAO) Maps, Cavity/Detail/Displacement Maps (CDM), Normals, Blendmaps, and Masks for dirt & decals.
 
-Modern texturing (Adobe Substance Painter) & modeling (Autodesk Maya) software can be used without any modification.
+Modern texturing (Adobe Substance 3D Painter) & modeling (Autodesk Maya) software can be used without any modification.
