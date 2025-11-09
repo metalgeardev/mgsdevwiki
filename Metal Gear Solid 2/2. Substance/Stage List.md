@@ -187,72 +187,73 @@
 
 ### VR MISSIONS (Normal Missions)
 
-| Stage                               | Mode                                                 | Stage|
-| ----------------------------------- | ---------------------------------------------------- |-----------------|
-| vs01a                               | VR: Sneaking / Eliminate All | Stage One                                            |
-| vs02a                               | VR: Sneaking / Eliminate All | Stage Two                                            |
-| vs03a                               | VR: Sneaking / Eliminate All | Stage Three                                          |
-| vs04a                               | VR: Sneaking / Eliminate All | Stage Four                                           |
-| vs05a                               | VR: Sneaking / Eliminate All | Stage Five                                           |
-| vs06A                               | VR: Sneaking / Eliminate All | Stage Six                                            |
-| vs07a                               | VR: Sneaking / Eliminate All | Stage Seven                                          |
-| vs08a                               | VR: Sneaking / Eliminate All | Stage Eight                                          |
-| vs09A                               | VR: Sneaking / Eliminate All | Stage Nine                                           |
-| vs10A                               | VR: Sneaking / Eliminate All | Stage Ten                                            |
-| sp01a                               | VR: Variety | Stage One                                            |
-| sp02a                               | VR: Variety | Stage Two                                            |
-| sp03a                               | VR: Variety | Stage Three                                          |
-| sp04a                               | VR: Variety | Stage Four                                           |
-| sp05a                               | VR: Variety | Stage Five                                           |
-| sp06a                               | VR: Variety | Stage Six                                            |
-| sp07a                               | VR: Variety | Stage Seven                                          |
-| sp08a                               | VR: Variety | Stage Eight                                          |
-| st02a                               | VR: Streaking | Stage One                                            |
-| st03a                               | VR: Streaking | Stage Two                                            |
-| st04a                               | VR: Streaking | Stage Three                                          |
-| st05a                               | VR: Streaking | Stage Four                                           |
-| sp21                                | VR: First Person | Stage One                                            |
-| sp22                                | VR: First Person | Stage Two                                            |
-| sp23                                | VR: First Person | Stage Three                                          |
-| sp24                                | VR: First Person | Stage Four                                           |
-| sp25                                | VR: First Person | Stage Five                                           |
-| wp01a                               | VR: Weapons - USP/SOCOM | Stage Five                                 |
-| wp02a                               | VR: Weapons - USP/SOCOM | Stage Four                                 |
-| wp03a                               | VR: Weapons - USP/SOCOM | Stage Three                               |
-| wp04a                               | VR: Weapons - USP/SOCOM | Stage Two                                |
-| wp05a                               | VR: Weapons - USP/SOCOM | Stage One                                |
-| wp11a                               | VR: Weapons - M4/AK74U | Stage Five                                  |
-| wp12a                               | VR: Weapons - M4/AK74U | Stage Four                                  |
-| wp13a                               | VR: Weapons - M4/AK74U | Stage Three                                |
-| wp14a                               | VR: Weapons - M4/AK74U | Stage Two                                 |
-| wp15a                               | VR: Weapons - M4/AK74U | Stage One                                 |
-| wp21a                               | VR: Weapons - C4/CLAYMORE | Stage Five                               |
-| wp22a                               | VR: Weapons - C4/CLAYMORE | Stage Four                               |
-| wp23a                               | VR: Weapons - C4/CLAYMORE | Stage Three                             |
-| wp24a                               | VR: Weapons - C4/CLAYMORE | Stage Two                              |
-| wp25a                               | VR: Weapons - C4/CLAYMORE | Stage One                              |
-| wp31a                               | VR: Weapons - GRENADE | Stage Five                                   |
-| wp32a                               | VR: Weapons - GRENADE | Stage Four                                   |
-| wp33a                               | VR: Weapons - GRENADE | Stage Three                                 |
-| wp34a                               | VR: Weapons - GRENADE | Stage Two                                  |
-| wp35a                               | VR: Weapons - GRENADE | Stage One                                  |
-| wp41a                               | VR: Weapons - PSG-1 | Stage Five                                     |
-| wp42a                               | VR: Weapons - PSG-1 | Stage Four                                     |
-| wp43a                               | VR: Weapons - PSG-1 | Stage Three                                   |
-| wp44a                               | VR: Weapons - PSG-1 | Stage Two                                    |
-| wp45a                               | VR: Weapons - PSG-1 | Stage One                                    |
-| wp51a                               | VR: Weapons - STINGER | Stage Five                                   |
-| wp52a                               | VR: Weapons - STINGER | Stage Four                                   |
-| wp53a                               | VR: Weapons - STINGER | Stage Three                                 |
-| wp54a                               | VR: Weapons - STINGER | Stage Two                                  |
-| wp55a                               | VR: Weapons - STINGER | Stage One                                  |
-| wp61a                               | VR: Weapons - NIKITA | Stage Five                                    |
-| wp62a                               | VR: Weapons - NIKITA | Stage Four                                    |
-| wp63a                               | VR: Weapons - NIKITA | Stage Three                                  |
-| wp64a                               | VR: Weapons - NIKITA | Stage Two                                   |
-| wp65a                               | VR: Weapons - NIKITA | Stage One                                   |
-| wp71a                               | VR: Weapons - NO WEAPON/HF.BLADE | Stage Five                        |
-| wp72a                               | VR: Weapons - NO WEAPON/HF.BLADE | Stage Four                        |
-| wp73a                               | VR: Weapons - NO WEAPON/HF.BLADE | Stage Three                      |
-| wp74a                               | VR: Weapons - NO WEAPON/HF.BLADE | Stage Two                       |
-| wp75a                               | VR: Weapons - NO WEAPON/HF.BLADE | Stage One                       |
+
+| Stage | Mode                             | Level       |
+| ----- | -------------------------------- | ----------- |
+| vs01a | VR: Sneaking / Eliminate All     | Stage One   |
+| vs02a | VR: Sneaking / Eliminate All     | Stage Two   |
+| vs03a | VR: Sneaking / Eliminate All     | Stage Three |
+| vs04a | VR: Sneaking / Eliminate All     | Stage Four  |
+| vs05a | VR: Sneaking / Eliminate All     | Stage Five  |
+| vs06a | VR: Sneaking / Eliminate All     | Stage Six   |
+| vs07a | VR: Sneaking / Eliminate All     | Stage Seven |
+| vs08a | VR: Sneaking / Eliminate All     | Stage Eight |
+| vs09A | VR: Sneaking / Eliminate All     | Stage Nine  |
+| vs10A | VR: Sneaking / Eliminate All     | Stage Ten   |
+| sp01a | VR: Variety                      | Stage One   |
+| sp02a | VR: Variety                      | Stage Two   |
+| sp03a | VR: Variety                      | Stage Three |
+| sp04a | VR: Variety                      | Stage Four  |
+| sp05a | VR: Variety                      | Stage Five  |
+| sp06a | VR: Variety                      | Stage Six   |
+| sp07a | VR: Variety                      | Stage Seven |
+| sp08a | VR: Variety                      | Stage Eight |
+| st02a | VR: Streaking                    | Stage One   |
+| st03a | VR: Streaking                    | Stage Two   |
+| st04a | VR: Streaking                    | Stage Three |
+| st05a | VR: Streaking                    | Stage Four  |
+| sp21  | VR: First Person                 | Stage One   |
+| sp22  | VR: First Person                 | Stage Two   |
+| sp23  | VR: First Person                 | Stage Three |
+| sp24  | VR: First Person                 | Stage Four  |
+| sp25  | VR: First Person                 | Stage Five  |
+| wp01a | VR: Weapons - USP/SOCOM          | Stage One   |
+| wp02a | VR: Weapons - USP/SOCOM          | Stage Two   |
+| wp03a | VR: Weapons - USP/SOCOM          | Stage Three |
+| wp04a | VR: Weapons - USP/SOCOM          | Stage Four  |
+| wp05a | VR: Weapons - USP/SOCOM          | Stage Five  |
+| wp11a | VR: Weapons - M4/AK74U           | Stage One   |
+| wp12a | VR: Weapons - M4/AK74U           | Stage Two   |
+| wp13a | VR: Weapons - M4/AK74U           | Stage Three |
+| wp14a | VR: Weapons - M4/AK74U           | Stage Four  |
+| wp15a | VR: Weapons - M4/AK74U           | Stage Five  |
+| wp21a | VR: Weapons - C4/CLAYMORE        | Stage One   |
+| wp22a | VR: Weapons - C4/CLAYMORE        | Stage Two   |
+| wp23a | VR: Weapons - C4/CLAYMORE        | Stage Three |
+| wp24a | VR: Weapons - C4/CLAYMORE        | Stage Four  |
+| wp25a | VR: Weapons - C4/CLAYMORE        | Stage Five  |
+| wp31a | VR: Weapons - GRENADE            | Stage One   |
+| wp32a | VR: Weapons - GRENADE            | Stage Two   |
+| wp33a | VR: Weapons - GRENADE            | Stage Three |
+| wp34a | VR: Weapons - GRENADE            | Stage Four  |
+| wp35a | VR: Weapons - GRENADE            | Stage Five  |
+| wp41a | VR: Weapons - PSG-1              | Stage One   |
+| wp42a | VR: Weapons - PSG-1              | Stage Two   |
+| wp43a | VR: Weapons - PSG-1              | Stage Three |
+| wp44a | VR: Weapons - PSG-1              | Stage Four  |
+| wp45a | VR: Weapons - PSG-1              | Stage Five  |
+| wp51a | VR: Weapons - STINGER            | Stage One   |
+| wp52a | VR: Weapons - STINGER            | Stage Two   |
+| wp53a | VR: Weapons - STINGER            | Stage Three |
+| wp54a | VR: Weapons - STINGER            | Stage Four  |
+| wp55a | VR: Weapons - STINGER            | Stage Five  |
+| wp61a | VR: Weapons - NIKITA             | Stage One   |
+| wp62a | VR: Weapons - NIKITA             | Stage Two   |
+| wp63a | VR: Weapons - NIKITA             | Stage Three |
+| wp64a | VR: Weapons - NIKITA             | Stage Four  |
+| wp65a | VR: Weapons - NIKITA             | Stage Five  |
+| wp71a | VR: Weapons - NO WEAPON/HF.BLADE | Stage One   |
+| wp72a | VR: Weapons - NO WEAPON/HF.BLADE | Stage Two   |
+| wp73a | VR: Weapons - NO WEAPON/HF.BLADE | Stage Three |
+| wp74a | VR: Weapons - NO WEAPON/HF.BLADE | Stage Four  |
+| wp75a | VR: Weapons - NO WEAPON/HF.BLADE | Stage Five  |
